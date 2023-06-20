@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {}
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
         "projectName": "MicroRabbit.Banking.Api",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Api\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
               }
             }
           }
@@ -69,6 +65,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -77,25 +91,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
         "projectName": "MicroRabbit.Banking.Application",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
               }
             }
           }
@@ -136,30 +146,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
         "projectName": "MicroRabbit.Banking.Data",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,8 +194,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
               }
             }
           }
@@ -200,30 +220,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
         "projectName": "MicroRabbit.Banking.Domain",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,8 +268,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -270,30 +300,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
         "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -336,30 +376,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
         "projectName": "MicroRabbit.Infra.Bus",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -374,8 +424,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -418,30 +468,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
         "projectName": "MicroRabbit.Infra.IoC",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.IoC\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -456,29 +516,29 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
               }
             }
           }
@@ -509,30 +569,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
         "projectName": "MicroRabbit.Transfer.Application",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Application\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -547,11 +617,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
               },
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
               }
             }
           }
@@ -576,30 +646,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
         "projectName": "MicroRabbit.Transfer.Data",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Data\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -614,8 +694,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
               }
             }
           }
@@ -640,30 +720,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+    "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
         "projectName": "MicroRabbit.Transfer.Domain",
-        "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Transfer.Domain\\obj\\",
+        "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+        "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Transfer.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\d.karyakin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -678,8 +768,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -704,12 +794,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

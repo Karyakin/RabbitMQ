@@ -30,9 +30,11 @@ namespace MicroRabbit.Infra.IoC
 
             //Subscriptions
             services.AddTransient<TransferEventHandler>();
+            services.AddTransient<LogEventHandler>();
 
             //Domain Events
             services.AddTransient<IEventHandler<TransferCreatedEvent>, TransferEventHandler>();
+            services.AddTransient<IEventHandler<TransferCreatedEvent>, LogEventHandler>();
 
             //Domain Banking Commands
             services.AddTransient<IRequestHandler<CreateTransferCommand, bool>, TransferCommandHandler>();

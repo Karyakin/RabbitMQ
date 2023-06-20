@@ -30,4 +30,15 @@ namespace MicroRabbit.Transfer.Domain.EventHandlers
             return Task.CompletedTask;
         }
     }
+    
+    public class LogEventHandler : IEventHandler<TransferCreatedEvent>
+    {
+        public Task Handle(TransferCreatedEvent @event)
+        {
+            Thread.Sleep(2000);
+            Console.WriteLine($"From: {@event.From}; To: {@event.To}; Amount: {@event.Amount}");
+
+            return Task.CompletedTask;
+        }
+    }
 }

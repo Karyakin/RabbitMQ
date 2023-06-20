@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZhadseG+J+xvr4mBRrdu5Pva76jExp8lISQ5O7jMIsRtlKCNzWYSx1uAD12eAuY3IpaEiTqXuODuAp4UznESjA==",
+  "dgSpecHash": "IkhZxGbPK5cwnJz8eKE0Qh0lsjva3fSWwZ0c40vpxLqVCnoFAXWzPIX+AX062o2mfHuzOOGHoWfjrhEw8No1MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dmitry\\OneDrive\\Рабочий стол\\New folder\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+  "projectFilePath": "C:\\Users\\d.karyakin\\Desktop\\RabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dmitry\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
-    "C:\\Users\\Dmitry\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Dmitry\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using MicroRabbit.Banking.Application.Interfaces;
@@ -30,8 +31,11 @@ namespace MicroRabbit.Banking.Api.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] AccountTransfer accountTransfer)
         {
+            var sw = new Stopwatch();
+            sw.Start();
             _accountService.Transfer(accountTransfer);
-            return Ok(accountTransfer);
+            sw.Stop();
+            return Ok($"ElapsedMilliseconds: {sw.ElapsedMilliseconds}") ;
         }
     }
 }

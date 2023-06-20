@@ -62,6 +62,7 @@ namespace MicroRabbit.Transfer.Api
         {
             var eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
             eventBus.Subscribe<TransferCreatedEvent, TransferEventHandler>();
+            eventBus.Subscribe<TransferCreatedEvent, LogEventHandler>();
         }
     }
 }
